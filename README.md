@@ -1,5 +1,9 @@
 ## Next Steps
-- Finnish up the other pages 
+- Continue working on the openings page. Make sure each image is a url to the wikipedia page, and that the interface is similar to "Steam" and "The Chess Website" as well. 
+    - Add any specific details to the FS Notes and create a mini review about them as well 
+
+
+- Finish up the other pages 
 - Add some media queries for 760px and 470px? (Find the correct measurement for tablets and phones)
 
 
